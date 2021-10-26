@@ -14,13 +14,14 @@
 
 
 
-<b> ## Git repos and links </b>
+<b> Git repos and links </b>
 
 1) Codechef and leetcode quest of DSA: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view <br>
 2) https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA<br>
 3) https://github.com/ossu/computer-science#core-theory <br>
 4) interiviewcake C lang class https://drive.google.com/file/d/1z_MjXH_dERYI8Q3UueewG6IeZYOmSkgx/view?fbclid=IwAR19spwGnjG1GTrNGF6IJLC1SthfbHYXZDSv0dlQl7-oW0BelLDjcOvsBDo <br>
 5) DSA JAVA LANG https://www.pepcoding.com/resources/ <br>
+6) https://drive.google.com/drive/folders/1WSo5GOM_c87jK0eSOJPTA_eA6Qoj4Ki-?usp=sharing <br>
 
 
 
