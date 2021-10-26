@@ -5,7 +5,7 @@
 # MU syllabus : https://muquestionpapers.com/syllabus/be <br>
 
 <b>Youtube vids</b>
-1)FCC: complete ds beignner https://www.youtube.com/watch?v=8hly31xKli0 , https://www.youtube.com/watch?v=B31LgI4Y4DQ <br>
+1) FCC: complete ds beignner https://www.youtube.com/watch?v=8hly31xKli0 , https://www.youtube.com/watch?v=B31LgI4Y4DQ <br>
 2) https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG <br>
 3) C lang https://youtube.com/playlist?list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW <br>
 4) for more subjects study also people says he good at ds topics https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured <br>
